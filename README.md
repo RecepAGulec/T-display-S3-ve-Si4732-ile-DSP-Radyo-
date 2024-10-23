@@ -10,4 +10,4 @@ Bu değişiklikler şunlardır:
   4) Pil seviye göstergesinde kırmızıdan bir önceki seviye sarıdan turuncuya değiştirildi.
   5) VHF'de (FM) 1 MHZ'lik adım ilâve edildi.
   6) Menü ögeleri mümkün olduğunca Türkçeleştirildi.
-Yazılımı Arduino IDE'de derlemek için gerekli ayarlar "T-display-s3 alıcı ayarlar.png" dosyasında gösterilmiştir.
+Yazılımı Arduino IDE'de derlemek için gerekli ayarlar **T-display-s3 alıcı ayarlar.png** dosyasında gösterilmiştir.
